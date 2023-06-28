@@ -3,7 +3,7 @@ import java.util.Arrays;
 
 public class Array1 {
 	public static void main(String[] args) {
-		String[] travel = {"Switzerland","Great Wall Of China","Disney World"};
+		String[] travel = {"Switzerland","Great Wall Of China","Disney World","Barbie World","Akatski"};
 		System.out.println(Arrays.toString(travel));
 		//Printing first element of array
 		System.out.println(travel[0]);
